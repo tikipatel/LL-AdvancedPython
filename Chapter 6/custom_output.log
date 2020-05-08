@@ -1,0 +1,6 @@
+User: joe@example.com 04/25/2020 09:57:23 AM: DEBUG: main Line: 56 This is a debug message
+User: joe@example.com 04/25/2020 09:57:23 AM: INFO: main Line: 57 This is an info message
+User: joe@example.com 04/25/2020 09:57:23 AM: WARNING: main Line: 58 This is a warning message
+User: joe@example.com 04/25/2020 09:57:23 AM: ERROR: main Line: 59 This is an error message
+User: joe@example.com 04/25/2020 09:57:23 AM: CRITICAL: main Line: 60 This is a critical message
+User: joe@example.com 04/25/2020 09:57:23 AM: DEBUG: my_function Line: 34 This is a debug level message
